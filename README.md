@@ -1,6 +1,6 @@
 # SEP490_FE - Manga Mystery Box collect and Trade App
 
-- Abbreviation: MMB
+- Abbreviation: **MMB**<br>
 A React + Vite web application for a collectible trading platform featuring auctions, product management, mystery boxes, real-time communication, and adminitration dashboard. Built for the Capstone project.
 
 ## Technologies
